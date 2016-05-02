@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.1.1_b479027c569d915b2e495eda982ee13bcec36114/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.1.1_609d1f2582111e3486af8ab15c3ab4db9d1bffb8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_cde00c8f8818a4a129794ebaf181cc70fcf29338/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8eac4086d42b9b5729c1f30b1c74383501f9562a">
+        <dex dex="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_68fc0c05c8079e79774f33d3c052f5c4323f9239/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexandervandesteene/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_d3f52c992dcd06d62eb3bd86ef366baaeeb12024/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_b0a483a9e16ecdd3686c1244fc330dacd10f377c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="feb5ba9bee4f2fe10fce3f1639a416906660149c">
+        <dex dex="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_671dcd57b403f05f7051751c7b64862120c4d626/classes.dex" />
+    </item>
+    <item
+        jar="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/alexandervandesteene/AndroidStudioProjects/TestApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_88a7a951455e534a339cb3f92409e09d4a451da8/classes.dex" />
+    </item>
+
+</items>
